@@ -1,0 +1,57 @@
+{
+  "42388471": {
+    "user_id": 6369434417,
+    "days": 7,
+    "amount": 5,
+    "status": "pending",
+    "created_at": 1768822453.8972743
+  },
+  "42389238": {
+    "user_id": 8322376057,
+    "days": 1,
+    "amount": 1,
+    "status": "pending",
+    "created_at": 1768823106.971906
+  },
+  "42389255": {
+    "user_id": 6369434417,
+    "days": 7,
+    "amount": 5,
+    "status": "pending",
+    "created_at": 1768823119.9769428
+  },
+  "42389484": {
+    "user_id": 6369434417,
+    "days": 30,
+    "amount": 20,
+    "status": "pending",
+    "created_at": 1768823277.0970006
+  },
+  "42390647": {
+    "user_id": 8485075384,
+    "days": 7,
+    "amount": 7,
+    "plan": "1 Week",
+    "forever": false,
+    "status": "pending",
+    "created_at": 1768824336.2947743
+  },
+  "42395537": {
+    "user_id": 8485075384,
+    "days": 7,
+    "amount": 7,
+    "plan": "1 Week",
+    "forever": false,
+    "status": "pending",
+    "created_at": 1768828431.00658
+  },
+  "42395869": {
+    "user_id": 8322376057,
+    "days": 7,
+    "amount": 7,
+    "plan": "1 Week",
+    "forever": false,
+    "status": "pending",
+    "created_at": 1768828697.1667364
+  }
+}
